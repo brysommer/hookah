@@ -1162,6 +1162,17 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+#pricing {
+  width: auto;
+  height: 82vh;
+  background: url("../img/chilling_menu.jpg") top center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-bottom: 0px;
+}
+
+
 .pricing .box {
   padding: 20px;
   background: #fff;
